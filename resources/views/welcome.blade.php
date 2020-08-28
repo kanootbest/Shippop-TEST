@@ -106,6 +106,7 @@
         </div>
         <div class="col-lg" style="text-align: center;">
             ประเภทการค้นหา.
+            <p>..............</p>
         </div>
         <div class="col-lg" style="text-align: center; margin-bottom:3%">
             <select name="type" id="type">
